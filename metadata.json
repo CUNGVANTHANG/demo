@@ -1,0 +1,7 @@
+{
+  "name": "FreshFruit - Hoa Quả Nhập Khẩu",
+  "description": "Cửa hàng hoa quả tươi nhập khẩu cao cấp với trải nghiệm mua sắm thông minh được hỗ trợ bởi AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
